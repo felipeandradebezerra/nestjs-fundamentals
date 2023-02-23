@@ -4,7 +4,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) fundamentals during Rocketseat Nest.js masterclass
 
 ## Installation
 
@@ -24,6 +24,7 @@ $ npm run start:dev
 ```bash
 # unit tests
 $ npm run test
+```
 
 ## Support
 
